@@ -11,4 +11,4 @@ https://github.com/erlware/Erlang-and-OTP-in-Action-Source
 #Erlang Programming
 `A Concurrent Approach to Software Development By Francesco Cesarini, Simon Thompson`
 http://shop.oreilly.com/product/9780596518189.do
-
+https://github.com/oreillymedia/erlang_programming
